@@ -1,0 +1,11 @@
+C:\Users\Shadrack myles\RiderProjects\area of triangle\obj\Debug\netcoreapp2.1\area of triangle.csprojAssemblyReference.cache
+C:\Users\Shadrack myles\RiderProjects\area of triangle\obj\Debug\netcoreapp2.1\area of triangle.csproj.CoreCompileInputs.cache
+C:\Users\Shadrack myles\RiderProjects\area of triangle\obj\Debug\netcoreapp2.1\area of triangle.AssemblyInfoInputs.cache
+C:\Users\Shadrack myles\RiderProjects\area of triangle\obj\Debug\netcoreapp2.1\area of triangle.AssemblyInfo.cs
+C:\Users\Shadrack myles\RiderProjects\area of triangle\bin\Debug\netcoreapp2.1\area of triangle.deps.json
+C:\Users\Shadrack myles\RiderProjects\area of triangle\bin\Debug\netcoreapp2.1\area of triangle.runtimeconfig.json
+C:\Users\Shadrack myles\RiderProjects\area of triangle\bin\Debug\netcoreapp2.1\area of triangle.runtimeconfig.dev.json
+C:\Users\Shadrack myles\RiderProjects\area of triangle\bin\Debug\netcoreapp2.1\area of triangle.dll
+C:\Users\Shadrack myles\RiderProjects\area of triangle\bin\Debug\netcoreapp2.1\area of triangle.pdb
+C:\Users\Shadrack myles\RiderProjects\area of triangle\obj\Debug\netcoreapp2.1\area of triangle.dll
+C:\Users\Shadrack myles\RiderProjects\area of triangle\obj\Debug\netcoreapp2.1\area of triangle.pdb
